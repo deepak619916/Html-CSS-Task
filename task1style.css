@@ -1,0 +1,67 @@
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+
+.centered {
+    position: absolute;
+    top: 40%;
+    left: 42%;
+
+    font-size: 90px;
+}
+
+.NavBar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    border: 1px solid #e7e7e7;
+    background-color: gray; 
+    text-align: center;
+}
+.NavBar ul li{
+    display: inline;
+    font-size: 25px;
+    color: blue;
+    margin-right: 5%;
+    
+}
+.NavBar ul li a{
+    text-decoration: none;
+    color:black;
+}
+a:hover{
+       border: 1px solid #e7e7e7; 
+      background: yellow; 
+      margin:0; 
+      text-decoration: underline;
+}
+.Faqs ul li:hover{
+    color: red;
+
+}
+.Faqs ul li{
+
+    font-size: 20px;
+    color: magenta;
+    margin-top: 5%;
+}
+.section1{
+     margin-top: 30%;
+     margin-bottom: 50%;
+}
+.section2{
+    
+     margin-bottom: 50%;
+}
+.section3{
+    
+     margin-bottom: 50%;
+}
+.section4{
+     
+     margin-bottom: 50%;
+}
